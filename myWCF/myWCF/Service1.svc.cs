@@ -6,6 +6,9 @@ using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
 
+//Hotfix 01
+
+
 // 01 after merge
 //02 after merge
 namespace myWCF
