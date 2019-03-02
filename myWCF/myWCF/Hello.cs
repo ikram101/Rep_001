@@ -8,6 +8,6 @@ namespace myWCF
     public class Hello
     {
 
-        //hotfix 104
+        //hotfix 104,105
     }
 }
